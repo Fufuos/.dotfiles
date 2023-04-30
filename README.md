@@ -127,23 +127,3 @@ Use the following command to convert your <kbd>CSS</kbd> file to <kbd>Customize 
 
 
 <h1></h1>
-
-<details>
-<summary><h3>Credits</h3></summary>
-
-_© [r/unixporn](https://www.reddit.com/r/unixporn)_
-
-_© All the maintainers and the artists <3_
-
-_© [flick0](https://github.com/flick0/dotfiles/tree/aurora) © [Syndrizzle](https://github.com/syndrizzle/hotfiles/tree/bspwm) © [NvChad](https://github.com/NvChad) © [adi1090x](https://github.com/adi1090x)_
-
-</details>
-
-<img src="./assets/catppuccin_cat_on_line.svg" width="100%" title="Footer">
-
-<div align="center">
-
-*Sooo that's it for now. See ya!!!*
-
-***ARIGATOU ❤️***
-</div>
