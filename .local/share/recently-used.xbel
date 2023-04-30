@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/fufu/Downloads/Discord" added="2023-04-29T15:32:16.771984Z" modified="2023-04-29T15:32:16.771989Z" visited="2023-04-29T15:32:16.771985Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-29T15:32:16.771986Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/wallpapers/blackandwhite/ciqttbt9hmca1.jpg" added="2023-04-29T17:10:53.786491Z" modified="2023-04-29T17:10:53.786498Z" visited="2023-04-29T17:10:53.786492Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;imv-dir %F&apos;" modified="2023-04-29T17:10:53.786494Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/wallpapers/blue/flower.jpg" added="2023-04-29T17:11:08.463366Z" modified="2023-04-29T17:11:08.463377Z" visited="2023-04-29T17:11:08.463368Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;imv-dir %F&apos;" modified="2023-04-29T17:11:08.463373Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/wallpapers/catppuccin/astronaut.png" added="2023-04-29T17:11:24.052961Z" modified="2023-04-29T17:12:21.269256Z" visited="2023-04-29T17:11:24.052962Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;imv-dir %F&apos;" modified="2023-04-29T17:12:21.269250Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/wallpapers/catppuccin/cat_Japanese_Neon.png" added="2023-04-29T17:11:34.270084Z" modified="2023-04-29T17:11:34.270091Z" visited="2023-04-29T17:11:34.270086Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;imv-dir %F&apos;" modified="2023-04-29T17:11:34.270088Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/wallpapers/catppuccin/Cyberpunkgirl_Catppucinned.png" added="2023-04-29T17:11:42.896985Z" modified="2023-04-29T17:11:42.896992Z" visited="2023-04-29T17:11:42.896986Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;imv-dir %F&apos;" modified="2023-04-29T17:11:42.896989Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/wallpapers/catppuccin/fool_moon.jpg" added="2023-04-29T17:11:46.433204Z" modified="2023-04-29T17:11:46.433212Z" visited="2023-04-29T17:11:46.433206Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;imv-dir %F&apos;" modified="2023-04-29T17:11:46.433208Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/wallpapers/catppuccin/gradient-synth-cat.png" added="2023-04-29T17:11:49.536211Z" modified="2023-04-29T17:11:49.536214Z" visited="2023-04-29T17:11:49.536212Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;imv-dir %F&apos;" modified="2023-04-29T17:11:49.536213Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/wallpapers/catppuccin/kittyboard.png" added="2023-04-29T17:11:51.771750Z" modified="2023-04-29T17:11:51.771756Z" visited="2023-04-29T17:11:51.771752Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;imv-dir %F&apos;" modified="2023-04-29T17:11:51.771754Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/wallpapers/catppuccin/outer-space.png" added="2023-04-29T17:11:57.113517Z" modified="2023-04-29T17:11:57.113524Z" visited="2023-04-29T17:11:57.113518Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;imv-dir %F&apos;" modified="2023-04-29T17:11:57.113521Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/wallpapers/catppuccin/pixelskyline.png" added="2023-04-29T17:12:01.298006Z" modified="2023-04-29T17:12:01.298013Z" visited="2023-04-29T17:12:01.298007Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;imv-dir %F&apos;" modified="2023-04-29T17:12:01.298009Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/wallpapers/catppuccin/PLANET3.png" added="2023-04-29T17:12:03.292894Z" modified="2023-04-29T17:12:03.292900Z" visited="2023-04-29T17:12:03.292895Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;imv-dir %F&apos;" modified="2023-04-29T17:12:03.292897Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/wallpapers/catppuccin/result(1).png" added="2023-04-29T17:12:05.109740Z" modified="2023-04-29T17:12:07.843795Z" visited="2023-04-29T17:12:05.109741Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;imv-dir %F&apos;" modified="2023-04-29T17:12:07.843790Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/wallpapers/catppuccin/space.jpg" added="2023-04-29T17:12:10.270824Z" modified="2023-04-29T17:12:10.270830Z" visited="2023-04-29T17:12:10.270825Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;imv-dir %F&apos;" modified="2023-04-29T17:12:10.270827Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/wallpapers/catppuccin/space_background.jpg" added="2023-04-29T17:12:12.084404Z" modified="2023-04-29T17:12:12.084410Z" visited="2023-04-29T17:12:12.084405Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;imv-dir %F&apos;" modified="2023-04-29T17:12:12.084407Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/wallpapers/catppuccin/unknown(3).png" added="2023-04-29T17:12:13.558209Z" modified="2023-04-29T17:12:13.558213Z" visited="2023-04-29T17:12:13.558210Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;imv-dir %F&apos;" modified="2023-04-29T17:12:13.558211Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/wallpapers/misc/appa.jpg" added="2023-04-29T17:13:04.989216Z" modified="2023-04-29T17:13:04.989222Z" visited="2023-04-29T17:13:04.989217Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;imv-dir %F&apos;" modified="2023-04-29T17:13:04.989219Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/wallpapers/misc/ctp_image43.png" added="2023-04-29T17:13:08.880718Z" modified="2023-04-29T17:13:08.880726Z" visited="2023-04-29T17:13:08.880719Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;imv-dir %F&apos;" modified="2023-04-29T17:13:08.880722Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/wallpapers/nord/nordastro.jpg" added="2023-04-29T17:13:13.245016Z" modified="2023-04-29T17:13:13.245021Z" visited="2023-04-29T17:13:13.245016Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;imv-dir %F&apos;" modified="2023-04-29T17:13:13.245018Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/wallpapers/nord/waterfall.jpg" added="2023-04-29T17:13:15.506591Z" modified="2023-04-29T17:13:15.506599Z" visited="2023-04-29T17:13:15.506593Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;imv-dir %F&apos;" modified="2023-04-29T17:13:15.506595Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/wallpapers/solarized/solarized-desert.jpg" added="2023-04-29T17:13:23.818176Z" modified="2023-04-29T17:13:23.818193Z" visited="2023-04-29T17:13:23.818177Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;imv-dir %F&apos;" modified="2023-04-29T17:13:23.818179Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/wallpapers/tokyonight/darktree.png" added="2023-04-29T17:13:31.367594Z" modified="2023-04-29T17:13:51.978940Z" visited="2023-04-29T17:13:31.367595Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;imv-dir %F&apos;" modified="2023-04-29T17:13:51.978933Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/wallpapers/tokyonight/wall.png" added="2023-04-29T17:13:43.106453Z" modified="2023-04-29T17:14:00.503520Z" visited="2023-04-29T17:13:43.106454Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;imv-dir %F&apos;" modified="2023-04-29T17:14:00.503513Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/wallpapers/tokyonight/wallpaper.png" added="2023-04-29T17:13:44.594839Z" modified="2023-04-29T17:13:44.594843Z" visited="2023-04-29T17:13:44.594840Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;imv-dir %F&apos;" modified="2023-04-29T17:13:44.594841Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/wallpapers/tokyonight/patience_catppuccin.png" added="2023-04-29T17:13:47.801903Z" modified="2023-04-29T17:13:47.801909Z" visited="2023-04-29T17:13:47.801904Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;imv-dir %F&apos;" modified="2023-04-29T17:13:47.801906Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/wallpapers/tokyonight/escape_velocity.jpg" added="2023-04-29T17:13:53.582838Z" modified="2023-04-29T17:13:53.582844Z" visited="2023-04-29T17:13:53.582839Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;imv-dir %F&apos;" modified="2023-04-29T17:13:53.582841Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/wallpapers/tokyonight/girl.png" added="2023-04-29T17:13:57.450237Z" modified="2023-04-29T17:13:57.450245Z" visited="2023-04-29T17:13:57.450238Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;imv-dir %F&apos;" modified="2023-04-29T17:13:57.450240Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/Dark+.theme.css" added="2023-04-29T17:26:34.439874Z" modified="2023-04-29T17:26:34.439887Z" visited="2023-04-29T17:26:34.439875Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-29T17:26:34.439876Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/nocturnal.theme.css" added="2023-04-29T17:30:16.050474Z" modified="2023-04-29T17:30:16.050490Z" visited="2023-04-29T17:30:16.050476Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-29T17:30:16.050480Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/zelkBD.theme.css" added="2023-04-29T17:30:22.475731Z" modified="2023-04-29T17:30:22.475736Z" visited="2023-04-29T17:30:22.475731Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-29T17:30:22.475734Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/DarkMatter.theme.css" added="2023-04-29T17:30:28.388907Z" modified="2023-04-29T17:30:28.388913Z" visited="2023-04-29T17:30:28.388908Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-29T17:30:28.388910Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/Untitled%20document.pdf" added="2023-04-30T10:03:40.239515Z" modified="2023-04-30T10:03:40.239524Z" visited="2023-04-30T10:03:40.239516Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-30T10:03:40.239519Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/cropped-EndeavourOS-logo-1.webp" added="2023-04-30T18:02:36.936887Z" modified="2023-04-30T18:02:37.265547Z" visited="2023-04-30T18:02:36.936890Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-30T18:02:37.265545Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/cropped-EndeavourOS-logo-1.png" added="2023-04-30T18:03:09.476971Z" modified="2023-04-30T18:03:48.527035Z" visited="2023-04-30T18:03:09.476974Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-30T18:03:31.654629Z" count="3"/>
+          <bookmark:application name="nemo" exec="&apos;imv-dir %F&apos;" modified="2023-04-30T18:03:48.527031Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/Safeimagekit-resized-img.png" added="2023-04-30T18:03:33.195004Z" modified="2023-04-30T18:03:51.038892Z" visited="2023-04-30T18:03:33.195006Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-30T18:03:33.195009Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;imv-dir %F&apos;" modified="2023-04-30T18:03:51.038887Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/EndeavourOS-logo.png" added="2023-04-30T18:11:40.789705Z" modified="2023-04-30T18:19:02.715476Z" visited="2023-04-30T18:11:40.789707Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-30T18:19:02.715473Z" count="5"/>
+          <bookmark:application name="nemo" exec="&apos;imv-dir %F&apos;" modified="2023-04-30T18:12:09.576977Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/fufu/Downloads/EndeavourOS-logo(1).png" added="2023-04-30T18:19:14.255544Z" modified="2023-04-30T18:19:14.255554Z" visited="2023-04-30T18:19:14.255546Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-30T18:19:14.255551Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

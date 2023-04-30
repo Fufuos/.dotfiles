@@ -1,0 +1,236 @@
+2023-04-29T13:39:33.538Z [debug] [main] Safe constructing new CMakeProject instance
+2023-04-29T13:39:33.539Z [debug] [variant] Constructing VariantManager
+2023-04-29T13:39:33.539Z [debug] [main] Constructing new CMakeProject instance
+2023-04-29T13:39:33.539Z [debug] [main] Starting CMake Tools second-phase init
+2023-04-29T13:39:33.596Z [info] [variant] Loaded new set of variants
+2023-04-29T13:39:33.600Z [debug] [kit] Not reading non-existent kits file: /home/fufu/.local/share/CMakeTools/cmake-tools-kits.json
+2023-04-29T13:39:33.603Z [debug] [kit] Not reading non-existent kits file: /home/fufu/.config/hypr/.vscode/cmake-kits.json
+2023-04-29T13:39:33.606Z [debug] [main] CMakeProject instance initialization complete.
+2023-04-29T13:39:33.959Z [info] [kit] Detected kits definition version change from undefined to 2. Silently scanning for kits.
+2023-04-29T13:39:33.978Z [debug] [kitsController] Rescanning for kits
+2023-04-29T13:39:33.979Z [debug] [kit] Scanning for Kits on system
+2023-04-29T13:39:33.982Z [debug] [kit] Scanning directory /usr/local/bin for compilers
+2023-04-29T13:39:33.982Z [debug] [kit] Scanning directory /usr/local/sbin for compilers
+2023-04-29T13:39:33.983Z [debug] [kit] Scanning directory /usr/bin for compilers
+2023-04-29T13:39:33.983Z [debug] [kit] Scanning directory /usr/sbin for compilers
+2023-04-29T13:39:33.983Z [debug] [kit] Scanning directory /usr/lib/jvm/default/bin for compilers
+2023-04-29T13:39:33.983Z [debug] [kit] Scanning directory /usr/bin/site_perl for compilers
+2023-04-29T13:39:33.984Z [debug] [kit] Scanning directory /usr/bin/vendor_perl for compilers
+2023-04-29T13:39:33.984Z [debug] [kit] Scanning directory /usr/bin/core_perl for compilers
+2023-04-29T13:39:33.984Z [debug] [kit] Scanning directory /home/fufu/.local/bin for compilers
+2023-04-29T13:39:33.985Z [debug] [kit] Skipping scan of not existing path /home/fufu/.local/bin/flutter/bin
+2023-04-29T13:39:33.985Z [debug] [kit] Found 0 kits in directory /home/fufu/.local/bin/flutter/bin
+2023-04-29T13:39:33.985Z [debug] [kit] Skipping scan of not existing path /home/fufu/.local/dex
+2023-04-29T13:39:33.985Z [debug] [kit] Found 0 kits in directory /home/fufu/.local/dex
+2023-04-29T13:39:33.986Z [debug] [kit] Skipping scan of not existing path /usr/local/texlive/2022/bin/x86_64-linux
+2023-04-29T13:39:33.986Z [debug] [kit] Found 0 kits in directory /usr/local/texlive/2022/bin/x86_64-linux
+2023-04-29T13:39:33.986Z [debug] [kit] Skipping scan of not existing path /usr/share/archcraft/scripts
+2023-04-29T13:39:33.986Z [debug] [kit] Found 0 kits in directory /usr/share/archcraft/scripts
+2023-04-29T13:39:33.986Z [debug] [kit] Skipping scan of not existing path /home/fufu/.local/share/gem/ruby/3.0.0/bin
+2023-04-29T13:39:33.987Z [debug] [kit] Found 0 kits in directory /home/fufu/.local/share/gem/ruby/3.0.0/bin
+2023-04-29T13:39:33.987Z [debug] [kit] Skipping scan of not existing path /opt/cuda/bin
+2023-04-29T13:39:33.987Z [debug] [kit] Found 0 kits in directory /opt/cuda/bin
+2023-04-29T13:39:33.987Z [debug] [kit] Skipping scan of not existing path /opt/flutter/bin
+2023-04-29T13:39:33.987Z [debug] [kit] Found 0 kits in directory /opt/flutter/bin
+2023-04-29T13:39:33.988Z [debug] [kit] Skipping scan of not existing path /home/proxzima/.local/bin/hadoop/sbin
+2023-04-29T13:39:33.988Z [debug] [kit] Found 0 kits in directory /home/proxzima/.local/bin/hadoop/sbin
+2023-04-29T13:39:33.988Z [debug] [kit] Skipping scan of not existing path /home/proxzima/.local/bin/hadoop/bin
+2023-04-29T13:39:33.988Z [debug] [kit] Found 0 kits in directory /home/proxzima/.local/bin/hadoop/bin
+2023-04-29T13:39:33.988Z [debug] [kit] Skipping scan of not existing path /home/fufu/Android/Sdk/emulator
+2023-04-29T13:39:33.988Z [debug] [kit] Found 0 kits in directory /home/fufu/Android/Sdk/emulator
+2023-04-29T13:39:33.989Z [debug] [kit] Skipping scan of not existing path /home/fufu/Android/Sdk/tools
+2023-04-29T13:39:33.989Z [debug] [kit] Found 0 kits in directory /home/fufu/Android/Sdk/tools
+2023-04-29T13:39:33.989Z [debug] [kit] Skipping scan of not existing path /home/fufu/Android/Sdk/tools/bin
+2023-04-29T13:39:33.989Z [debug] [kit] Found 0 kits in directory /home/fufu/Android/Sdk/tools/bin
+2023-04-29T13:39:33.989Z [debug] [kit] Skipping scan of not existing path /home/fufu/Android/Sdk/platform-tools
+2023-04-29T13:39:33.989Z [debug] [kit] Found 0 kits in directory /home/fufu/Android/Sdk/platform-tools
+2023-04-29T13:39:33.989Z [debug] [kit] Skipping scan of not existing path /home/fufu/.pub-cache/bin
+2023-04-29T13:39:33.989Z [debug] [kit] Found 0 kits in directory /home/fufu/.pub-cache/bin
+2023-04-29T13:39:33.990Z [debug] [kit] Skipping scan of not existing path undefined\LLVM\bin
+2023-04-29T13:39:33.990Z [debug] [kit] Found 0 kits in directory undefined\LLVM\bin
+2023-04-29T13:39:33.990Z [debug] [kit] Skipping scan of not existing path undefined\msys64\mingw32\bin
+2023-04-29T13:39:33.990Z [debug] [kit] Found 0 kits in directory undefined\msys64\mingw32\bin
+2023-04-29T13:39:33.990Z [debug] [kit] Skipping scan of not existing path undefined\msys64\mingw64\bin
+2023-04-29T13:39:33.990Z [debug] [kit] Found 0 kits in directory undefined\msys64\mingw64\bin
+2023-04-29T13:39:33.991Z [debug] [kit] Skipping scan of not existing path undefined\msys64\clang32\bin
+2023-04-29T13:39:33.991Z [debug] [kit] Found 0 kits in directory undefined\msys64\clang32\bin
+2023-04-29T13:39:33.991Z [debug] [kit] Skipping scan of not existing path undefined\msys64\clang64\bin
+2023-04-29T13:39:33.991Z [debug] [kit] Found 0 kits in directory undefined\msys64\clang64\bin
+2023-04-29T13:39:33.991Z [debug] [kit] Skipping scan of not existing path undefined\msys64\clangarm64\bin
+2023-04-29T13:39:33.991Z [debug] [kit] Found 0 kits in directory undefined\msys64\clangarm64\bin
+2023-04-29T13:39:33.991Z [debug] [kit] Skipping scan of not existing path undefined\msys64\ucrt64\bin
+2023-04-29T13:39:33.992Z [debug] [kit] Found 0 kits in directory undefined\msys64\ucrt64\bin
+2023-04-29T13:39:34.001Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:39:34.006Z [debug] [kit] Found 0 kits in directory /usr/local/bin
+2023-04-29T13:39:34.006Z [debug] [kit] Found 0 kits in directory /usr/local/sbin
+2023-04-29T13:39:34.007Z [debug] [kit] Found 0 kits in directory /usr/lib/jvm/default/bin
+2023-04-29T13:39:34.007Z [debug] [kit] Found 0 kits in directory /usr/bin/site_perl
+2023-04-29T13:39:34.008Z [debug] [kit] Found 0 kits in directory /usr/bin/vendor_perl
+2023-04-29T13:39:34.009Z [debug] [kit] Found 0 kits in directory /usr/bin/core_perl
+2023-04-29T13:39:34.009Z [debug] [kit] Found 0 kits in directory /home/fufu/.local/bin
+2023-04-29T13:39:34.020Z [debug] [kit] Testing Clang binary: /usr/bin/clang
+2023-04-29T13:39:34.021Z [info] [proc] Executing command: /usr/bin/clang -v
+2023-04-29T13:39:34.029Z [debug] [kit] Testing Clang binary: /usr/bin/clang-15
+2023-04-29T13:39:34.030Z [info] [proc] Executing command: /usr/bin/clang-15 -v
+2023-04-29T13:39:34.036Z [debug] [kit] Testing Clang binary: /usr/bin/clang-cl
+2023-04-29T13:39:34.037Z [info] [proc] Executing command: /usr/bin/clang-cl -v
+2023-04-29T13:39:34.057Z [debug] [kit] Testing GCC binary: /usr/bin/gcc
+2023-04-29T13:39:34.058Z [info] [proc] Executing command: /usr/bin/gcc -v
+2023-04-29T13:39:34.112Z [debug] [kit] Testing GCC binary: /usr/bin/x86_64-linux-gnu-gcc
+2023-04-29T13:39:34.112Z [info] [proc] Executing command: /usr/bin/x86_64-linux-gnu-gcc -v
+2023-04-29T13:39:34.118Z [debug] [kit] Testing GCC binary: /usr/bin/x86_64-pc-linux-gnu-gcc
+2023-04-29T13:39:34.118Z [info] [proc] Executing command: /usr/bin/x86_64-pc-linux-gnu-gcc -v
+2023-04-29T13:39:34.123Z [debug] [kit] Testing GCC binary: /usr/bin/x86_64-pc-linux-gnu-gcc-12.2.1
+2023-04-29T13:39:34.124Z [info] [proc] Executing command: /usr/bin/x86_64-pc-linux-gnu-gcc-12.2.1 -v
+2023-04-29T13:39:34.142Z [debug] [kit] Testing Clang binary: /usr/sbin/clang
+2023-04-29T13:39:34.143Z [info] [proc] Executing command: /usr/sbin/clang -v
+2023-04-29T13:39:34.149Z [debug] [kit] Testing Clang binary: /usr/sbin/clang-15
+2023-04-29T13:39:34.150Z [info] [proc] Executing command: /usr/sbin/clang-15 -v
+2023-04-29T13:39:34.156Z [debug] [kit] Testing Clang binary: /usr/sbin/clang-cl
+2023-04-29T13:39:34.156Z [info] [proc] Executing command: /usr/sbin/clang-cl -v
+2023-04-29T13:39:34.173Z [debug] [kit] Testing GCC binary: /usr/sbin/gcc
+2023-04-29T13:39:34.173Z [info] [proc] Executing command: /usr/sbin/gcc -v
+2023-04-29T13:39:34.229Z [debug] [kit] Testing GCC binary: /usr/sbin/x86_64-linux-gnu-gcc
+2023-04-29T13:39:34.229Z [info] [proc] Executing command: /usr/sbin/x86_64-linux-gnu-gcc -v
+2023-04-29T13:39:34.235Z [debug] [kit] Testing GCC binary: /usr/sbin/x86_64-pc-linux-gnu-gcc
+2023-04-29T13:39:34.236Z [info] [proc] Executing command: /usr/sbin/x86_64-pc-linux-gnu-gcc -v
+2023-04-29T13:39:34.241Z [debug] [kit] Testing GCC binary: /usr/sbin/x86_64-pc-linux-gnu-gcc-12.2.1
+2023-04-29T13:39:34.242Z [info] [proc] Executing command: /usr/sbin/x86_64-pc-linux-gnu-gcc-12.2.1 -v
+2023-04-29T13:39:34.259Z [debug] [kit] Detected GCC compiler: /usr/sbin/x86_64-pc-linux-gnu-gcc-12.2.1
+2023-04-29T13:39:34.260Z [debug] [kit] Detected GCC compiler: /usr/sbin/x86_64-pc-linux-gnu-gcc
+2023-04-29T13:39:34.261Z [debug] [kit] Detected GCC compiler: /usr/sbin/x86_64-linux-gnu-gcc
+2023-04-29T13:39:34.262Z [debug] [kit] Detected GCC compiler: /usr/sbin/gcc
+2023-04-29T13:39:34.262Z [debug] [kit] Detected Clang compiler: /usr/sbin/clang-cl
+2023-04-29T13:39:34.262Z [debug] [kit] Detected Clang compiler: /usr/sbin/clang-cl
+2023-04-29T13:39:34.262Z [debug] [kit] Detected Clang compiler: /usr/sbin/clang-15
+2023-04-29T13:39:34.262Z [debug] [kit] Detected Clang compiler: /usr/sbin/clang-15
+2023-04-29T13:39:34.263Z [debug] [kit] Detected Clang compiler: /usr/sbin/clang
+2023-04-29T13:39:34.263Z [debug] [kit] Detected Clang compiler: /usr/sbin/clang
+2023-04-29T13:39:34.263Z [debug] [kit] Detected GCC compiler: /usr/bin/x86_64-pc-linux-gnu-gcc-12.2.1
+2023-04-29T13:39:34.263Z [debug] [kit] Detected GCC compiler: /usr/bin/x86_64-pc-linux-gnu-gcc
+2023-04-29T13:39:34.264Z [debug] [kit] Detected GCC compiler: /usr/bin/x86_64-linux-gnu-gcc
+2023-04-29T13:39:34.264Z [debug] [kit] Detected GCC compiler: /usr/bin/gcc
+2023-04-29T13:39:34.264Z [debug] [kit] Detected Clang compiler: /usr/bin/clang-cl
+2023-04-29T13:39:34.265Z [debug] [kit] Detected Clang compiler: /usr/bin/clang-cl
+2023-04-29T13:39:34.265Z [debug] [kit] Detected Clang compiler: /usr/bin/clang-15
+2023-04-29T13:39:34.265Z [debug] [kit] Detected Clang compiler: /usr/bin/clang-15
+2023-04-29T13:39:34.265Z [debug] [kit] Detected Clang compiler: /usr/bin/clang
+2023-04-29T13:39:34.265Z [debug] [kit] Detected Clang compiler: /usr/bin/clang
+2023-04-29T13:39:34.292Z [debug] [kit] Testing GCC binary: /usr/sbin/x86_64-pc-linux-gnu-gcc
+2023-04-29T13:39:34.293Z [info] [proc] Executing command: /usr/sbin/x86_64-pc-linux-gnu-gcc -v
+2023-04-29T13:39:34.300Z [debug] [kit] Testing Clang binary: /usr/sbin/clang
+2023-04-29T13:39:34.301Z [info] [proc] Executing command: /usr/sbin/clang -v
+2023-04-29T13:39:34.307Z [debug] [kit] Testing GCC binary: /usr/bin/x86_64-pc-linux-gnu-gcc
+2023-04-29T13:39:34.307Z [info] [proc] Executing command: /usr/bin/x86_64-pc-linux-gnu-gcc -v
+2023-04-29T13:39:34.314Z [debug] [kit] Testing Clang binary: /usr/bin/clang
+2023-04-29T13:39:34.315Z [info] [proc] Executing command: /usr/bin/clang -v
+2023-04-29T13:39:34.322Z [debug] [kit] Detected GCC compiler: /usr/bin/x86_64-pc-linux-gnu-gcc
+2023-04-29T13:39:34.323Z [debug] [kit] Detected GCC compiler: /usr/sbin/x86_64-pc-linux-gnu-gcc
+2023-04-29T13:39:34.325Z [debug] [kit] Detected Clang compiler: /usr/sbin/clang
+2023-04-29T13:39:34.326Z [debug] [kit] Found 7 kits in directory /usr/sbin
+2023-04-29T13:39:34.335Z [debug] [kit] Detected Clang compiler: /usr/bin/clang
+2023-04-29T13:39:34.335Z [debug] [kit] Found 7 kits in directory /usr/bin
+2023-04-29T13:39:34.336Z [info] [kit] Found Kit (trusted): Clang 15.0.7 x86_64-pc-linux-gnu
+2023-04-29T13:39:34.336Z [info] [kit] Found Kit (trusted): Clang 15.0.7 x86_64-pc-linux-gnu
+2023-04-29T13:39:34.336Z [info] [kit] Found Kit (trusted): Clang-cl 15.0.7 x86_64-pc-windows-msvc
+2023-04-29T13:39:34.336Z [info] [kit] Found Kit (trusted): GCC 12.2.1 x86_64-pc-linux-gnu
+2023-04-29T13:39:34.336Z [info] [kit] Found Kit (trusted): GCC 12.2.1 x86_64-pc-linux-gnu
+2023-04-29T13:39:34.336Z [info] [kit] Found Kit (trusted): GCC 12.2.1 x86_64-pc-linux-gnu
+2023-04-29T13:39:34.336Z [info] [kit] Found Kit (trusted): GCC 12.2.1 x86_64-pc-linux-gnu
+2023-04-29T13:39:34.336Z [info] [kit] Found Kit (trusted): Clang 15.0.7 x86_64-pc-linux-gnu
+2023-04-29T13:39:34.336Z [info] [kit] Found Kit (trusted): Clang 15.0.7 x86_64-pc-linux-gnu
+2023-04-29T13:39:34.336Z [info] [kit] Found Kit (trusted): Clang-cl 15.0.7 x86_64-pc-windows-msvc
+2023-04-29T13:39:34.336Z [info] [kit] Found Kit (trusted): GCC 12.2.1 x86_64-pc-linux-gnu
+2023-04-29T13:39:34.336Z [info] [kit] Found Kit (trusted): GCC 12.2.1 x86_64-pc-linux-gnu
+2023-04-29T13:39:34.336Z [info] [kit] Found Kit (trusted): GCC 12.2.1 x86_64-pc-linux-gnu
+2023-04-29T13:39:34.336Z [info] [kit] Found Kit (trusted): GCC 12.2.1 x86_64-pc-linux-gnu
+2023-04-29T13:39:34.337Z [debug] [kitsController] Saving kits to /home/fufu/.local/share/CMakeTools/cmake-tools-kits.json
+2023-04-29T13:39:34.337Z [debug] [kitsController] Saving new kits to /home/fufu/.local/share/CMakeTools/cmake-tools-kits.json
+2023-04-29T13:39:45.548Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:40:34.879Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:42:33.994Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:42:40.877Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:44:01.989Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:45:02.204Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:45:02.381Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:45:50.878Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:45:51.134Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:46:16.199Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:46:23.897Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:46:31.451Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:46:38.561Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:46:43.142Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:46:46.749Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:46:52.565Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:46:58.038Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:47:03.174Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:47:10.179Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:47:14.735Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:47:19.777Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:47:25.846Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:47:32.532Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:47:32.678Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:47:34.734Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:47:43.411Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:47:47.499Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:47:51.729Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:47:55.781Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:47:59.630Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:48:02.320Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:51:01.007Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:51:01.179Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:52:35.100Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:52:36.933Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:52:42.028Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:54:10.496Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:54:16.032Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:54:16.211Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:54:21.246Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:54:21.422Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:54:29.606Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:54:29.777Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:54:32.194Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:54:32.348Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:54:42.113Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:54:47.649Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:54:47.821Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:54:55.240Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:55:04.426Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:55:13.257Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:55:17.038Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:55:55.428Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:55:55.620Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:55:55.835Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:55:55.976Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:55:56.172Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:55:56.289Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:55:56.453Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:55:56.626Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:55:57.639Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:56:00.325Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:56:00.507Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:57:55.846Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:57:56.039Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:58:06.665Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:58:06.834Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:58:10.494Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:58:10.639Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:58:10.803Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:58:27.624Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:58:27.780Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:59:08.209Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:59:20.793Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:59:21.048Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:59:25.253Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T13:59:32.723Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T14:00:14.857Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T14:00:28.347Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T14:00:48.922Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T14:01:07.904Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T14:01:08.190Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T14:01:18.599Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T14:01:18.750Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T14:01:28.470Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T14:01:29.322Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T14:01:29.601Z [debug] [main] Not starting CMake driver: no kit selected
+2023-04-29T14:02:49.288Z [debug] [extension] Deactivate CMakeTools
