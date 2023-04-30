@@ -1,0 +1,9 @@
+2023-04-30 13:01:09.136 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-30 13:01:09.147 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.remote-repositories' wants API proposal 'contribEditorGutterMenu' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-30 13:01:09.147 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'contribEditorGutterMenu' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-30 13:01:09.147 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookControllerKind' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-30 13:01:09.490 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2023-04-30 13:01:10.525 [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/etc/default/grub' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/default/grub') file:///etc/default/grub
+2023-04-30 13:01:12.722 [info] [lifecycle]: Shutdown was prevented by final veto (id: veto.backups)
+2023-04-30 13:01:15.511 [info] [perf] Render performance baseline is 19ms
+2023-04-30 13:01:16.292 [warning] [backup tracker] suspended, ignoring dirty change event file:///etc/default/grub 

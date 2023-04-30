@@ -1,0 +1,43 @@
+Ready!
+Initialized!
+open file:///home/fufu/.mozilla/firefox/6dn0edr8.default-release/serviceworker.txt
+create text checking session for "file:///home/fufu/.mozilla/firefox/6dn0edr8.default-release/serviceworker.txt" with {
+  "documentDialect": "auto-text",
+  "documentDomain": "general",
+  "suggestions": {
+    "ConjunctionAtStartOfSentence": false,
+    "Fluency": true,
+    "InformalPronounsAcademic": false,
+    "MissingSpaces": true,
+    "NounStrings": true,
+    "NumbersBeginningSentences": true,
+    "NumbersZeroThroughTen": true,
+    "OxfordComma": false,
+    "PassiveVoice": false,
+    "PersonFirstLanguage": true,
+    "PossiblyBiasedLanguageAgeRelated": true,
+    "PossiblyBiasedLanguageDisabilityRelated": true,
+    "PossiblyBiasedLanguageFamilyRelated": true,
+    "PossiblyBiasedLanguageGenderRelated": true,
+    "PossiblyBiasedLanguageHumanRights": true,
+    "PossiblyBiasedLanguageHumanRightsRelated": true,
+    "PossiblyBiasedLanguageLgbtqiaRelated": true,
+    "PossiblyBiasedLanguageRaceEthnicityRelated": true,
+    "PossiblyPoliticallyIncorrectLanguage": true,
+    "PrepositionAtTheEndOfSentence": false,
+    "PunctuationWithQuotation": true,
+    "ReadabilityFillerwords": true,
+    "ReadabilityTransforms": true,
+    "SentenceVariety": true,
+    "SpacesSurroundingSlash": true,
+    "SplitInfinitive": true,
+    "StylisticFragments": false,
+    "UnnecessaryEllipses": false,
+    "Variety": true,
+    "Vocabulary": true
+  }
+} 
+ready file:///home/fufu/.mozilla/firefox/6dn0edr8.default-release/serviceworker.txt
+connecting file:///home/fufu/.mozilla/firefox/6dn0edr8.default-release/serviceworker.txt
+checking file:///home/fufu/.mozilla/firefox/6dn0edr8.default-release/serviceworker.txt
+idle file:///home/fufu/.mozilla/firefox/6dn0edr8.default-release/serviceworker.txt

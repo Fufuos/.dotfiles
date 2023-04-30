@@ -1,0 +1,2 @@
+[2023-04-30 17:39:09.047] [GIT  ] [/home/fufu/Documents/VSC/Hw] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 79 ms
+

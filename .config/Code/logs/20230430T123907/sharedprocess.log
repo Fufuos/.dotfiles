@@ -1,0 +1,8 @@
+2023-04-30 12:39:15.901 [info] Getting Manifest... pkief.material-icon-theme
+2023-04-30 12:39:15.971 [info] Installing extension: pkief.material-icon-theme
+2023-04-30 12:39:21.366 [warning] Extension signature verification failed with error 'UnknownError': pkief.material-icon-theme
+2023-04-30 12:39:21.633 [info] Extracted extension to /home/fufu/.vscode/extensions/.7779e6ed-ccac-4b37-882f-ac5fd627fefa: pkief.material-icon-theme
+2023-04-30 12:39:21.641 [info] Renamed to /home/fufu/.vscode/extensions/pkief.material-icon-theme-4.27.0
+2023-04-30 12:39:21.643 [info] Extracting extension completed. pkief.material-icon-theme
+2023-04-30 12:39:21.648 [info] Extension installed successfully: pkief.material-icon-theme
+2023-04-30 12:39:21.651 [info] Marked extension as uninstalled pkief.material-icon-theme-4.26.0

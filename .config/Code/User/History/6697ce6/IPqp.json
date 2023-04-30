@@ -1,0 +1,44 @@
+{
+    // Place your snippets for cpp here. Each snippet is defined under a snippet name and has a prefix, body and
+    // description. The prefix is what is used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
+    // $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. Placeholders with the
+    // same ids are connected.
+    // Example:
+    // "Print to console": {
+    //     "prefix": "log",
+    //     "body": [
+    //         "console.log('$1');",
+    //         "$2"
+    //     ],
+    //     "description": "Log output to console"
+    // }
+    "C++ Skeleton": {
+        "prefix": "cpp!",
+        "body": [
+            "/*",
+            "Written by Nicholas Thong for CS1337.008 for x",
+            "Net ID: NKT220001",
+            "Date: x/x/2023",
+            "*/",
+            "",
+            "/*",
+            "GUIDELINES",
+            "*/",
+            "",
+            "#include <iostream>",
+            "#include <iomanip>",
+            "#include <cmath>",
+            "#include <string>",
+            "",
+            "using namespace std;",
+            "",
+            "int main() {",
+            "    ",
+            "    ",
+            "    ",
+            "    return 0;",
+            "}"
+        ],
+        "description": "C++ Skeleton"
+    }
+}

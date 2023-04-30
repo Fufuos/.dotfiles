@@ -1,0 +1,6 @@
+2023/04/30-12:24:10.115 7c3 Reusing MANIFEST /home/fufu/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/04/30-12:24:10.116 7c3 Recovering log #6
+2023/04/30-12:24:10.116 7c3 Reusing old log /home/fufu/.config/discord/Local Storage/leveldb/000006.log 
+2023/04/30-12:34:26.365 7c4 Level-0 table #10: started
+2023/04/30-12:34:26.382 7c4 Level-0 table #10: 1577215 bytes OK
+2023/04/30-12:34:26.383 7c4 Delete type=0 #6
